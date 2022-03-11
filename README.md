@@ -8,8 +8,9 @@
 
 > choco –version
 
+<br/><br/>
 
-(2) 파이썬 설치 
+(2) 파이썬 설치
 
 > choco install -y python
 
@@ -17,30 +18,31 @@
 
 > python --version
 
+<br/><br/>
 
 (3) 설치할 폴더 이동 (git clone한 폴더 이동)
 
 > cd DjangoSample
 
+<br/><br/>
 
-(4) venv로 가상화 생성 
+(4) venv로 가상화 생성
 
 > python -m venv venv
 
+<br/><br/>
 
 (5) 가상화 실행
 > ~\venv\Scripts\activate.bat
 
+<br/><br/>
 
 (4) 사용할 패키지 설치
 
 > pip install django
-
 > pip install djangorestframework
-
 > pip install django-filter
-
 > pip install django-cors-headers
-
 > pip install cx_Oracle
 
+<br/><br/>

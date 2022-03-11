@@ -41,10 +41,10 @@
 
 (4) 사용할 패키지 설치
 
-> pip install django
-> pip install djangorestframework
-> pip install django-filter
-> pip install django-cors-headers
-> pip install cx_Oracle
+> pip install django  
+> pip install djangorestframework  
+> pip install django-filter  
+> pip install django-cors-headers  
+> pip install cx_Oracle  
 
 <br/>

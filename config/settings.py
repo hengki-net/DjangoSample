@@ -68,10 +68,10 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.oracle',
-        'NAME': 'BESTTEST',
-        'USER': 'gmes',
-        'PASSWORD': 'gmes01',
-        'HOST': '172.17.40.185',
+        'NAME': '--',
+        'USER': '--',
+        'PASSWORD': '--',
+        'HOST': '127.0.0.1',
         'PORT': '1521',
     }
 }
